@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ## 👋 Hello, I'm @czy30121
 
-I'm a full-time Full-stack & Blockchain developer 👨&zwj;💻 working remotely until 2015 🚀
+I'm a full-time Full-stack developer 👨&zwj;💻 working remotely since 2015 🚀
 
-I'm a frontend developer with 8 years of experience specializing in React. I have a passion for creating high-quality user interfaces and enjoy tackling complex
-problems. I'm constantly learning and exploring new technologies to improve my skills and deliver the best possible solutions.
+Experienced Full Stack Developer with a strong track record of delivering impactful projects and driving business growth. Skilled in MERN stack, consistently delivering high-quality applications that have resulted in significant increases in revenue, user satisfaction, and productivity. Demonstrated expertise in designing and building real-time collaboration tools, e-commerce platforms, and visually stunning websites, showcasing creativity and technical proficiency in delivering exceptional user experiences.
 
 ![Views](https://komarev.com/ghpvc/?username=czy30121&label=views&color=blue&style=flat)
 
